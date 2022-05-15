@@ -1,6 +1,6 @@
 {
-  "name": "phaser3-typescript-project-template",
-  "version": "1.0.2",
+  "name": "Even The Odds",
+  "version": "0.8.0",
   "description": "A game where you're taking pairs of colored tokens and trying to end the game with more colors with even numbers of tokens than your opponent!",
   "main": "src/scenes/mainmenu.ts",
   "scripts": {
@@ -13,7 +13,7 @@
     "url": "git+https://github.com/photonstorm/phaser3-typescript-project-template.git"
   },
   "author": "Brian Cable <brian.cable.dev@gmail.com>",
-  "license": "MIT",
+  "license": "GPL V3",
   "bugs": {
     "url": "https://github.com/photonstorm/phaser3-typescript-project-template/issues"
   },

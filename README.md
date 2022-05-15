@@ -1,6 +1,8 @@
-# Phaser 3 TypeScript Project Template
+# Even The Odds Game
 
-This quick-start project template combines Phaser 3 with [TypeScript](https://www.typescriptlang.org/) and uses [Rollup](https://rollupjs.org) for bundling.
+Even the Odds game, designed by Brian Cable. Take turns taking objects from a circle, while trying to ensure that you have more sets where you have an even number of those sets than your opponent.
+
+Should work as a board game as well (can even ben done with a page of drawn circles and some colored cubes, that's how I playtested it originally). Please contact me if you're interested in publishing a version (physical or digital) of this game elsewhere.
 
 ## Requirements
 
